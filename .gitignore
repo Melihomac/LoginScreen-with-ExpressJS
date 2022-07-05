@@ -1,5 +1,6 @@
 bin/
-.screenshots/
+screenshots/
+*package-lock.json
 
 # Logs
 logs
